@@ -6,7 +6,7 @@
 
 ## My Practical Evidence
 
-![Guided exercise output 1](screenshots/01-Practical-Exercises.png)
-![Guided exercise output 2](screenshots/01-Practical-Exercises-2.png)
-![Final report with email](screenshots/02-Final-Challenge.png)
-![Final report without email](screenshots/03-Final-Challenge-No-Email.png)
+![Guided exercise output 1](Screenshots/Exercise1.png)
+![Guided exercise output 2](Screenshots/Exercise2.png)
+![Final report with email](Screenshots/02-Final-Challenge.png)
+![Final report without email](Screenshots/03-Final-Challenge-No-Email.png)
